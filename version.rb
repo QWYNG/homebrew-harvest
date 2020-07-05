@@ -1,2 +1,2 @@
-VERSION = File.basename("refs/tags/v0.2.0")
-SHA = "5459a44f13e01db34ee0778b650b92399acf8ecac37bbd0b0be294ae307bd959"
+VERSION = File.basename("v0.2.0")
+SHA = "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
